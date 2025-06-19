@@ -1,6 +1,6 @@
 # Python
 ## Assignment 1: Basic Python Concepts
-## Module 2 – Python Fundamentals
+Module 2 – Python Fundamentals
 This repository contains solutions for Assignment 1 from Module 2: Basic Python Concepts. The assignment consists of two tasks:
 
 📌 Task 1: Perform Basic Mathematical Operations
